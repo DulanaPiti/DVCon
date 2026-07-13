@@ -1,4 +1,4 @@
-# src/nn — Module summaries
+# Module summaries
 
 - Filename: activation_unit.v  
   Purpose: Per-channel activation supporting HardSwish, ReLU, HardSigmoid, and Identity.  
