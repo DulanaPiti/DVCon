@@ -1,0 +1,26 @@
+# Project-specific cache and run directories
+DVconstage2B.cache/
+DVconstage2B.runs/
+DVconstage2B.hw/
+
+# EDA / tool cache and run artifacts
+*.wpc
+*.wdf
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+
+# Simulation / waveform / log outputs
+*.vcd
+*.vvp
+*.log
+*.jou
+
+# General caches and temporary files seen/generated
+.cache/
+*.cache
+*.tmp
+*.bak
+*~
+.DS_Store
